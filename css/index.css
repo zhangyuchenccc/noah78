@@ -1,0 +1,558 @@
+body{
+    margin:0;
+}
+.swiper-container{
+    width: 100vw;
+    height: 100vh;
+}
+
+
+.page4{
+    width: 100vw;
+    height: 100vh;
+    background: #ffffff;
+    position: relative;
+    background-size: cover;
+}
+.page4 .background{
+    width:7.8rem ;
+    height: 7.05rem;
+    background: url(../img/组\ 2.png);
+    background-size:cover;
+    position: absolute;
+    left: -0.3rem;
+
+}
+.page4 .logo{
+    width: 1.08rem; 
+    height: 0.55rem;
+    background: url(../img/诺阿logo-2\(1\).png);
+    background-size:cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 0.3rem;
+}
+.page4 .tup{
+    width: 1.92rem;
+    height: 0.6rem;
+    background: url(../img/4.1.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 1.52rem;
+}
+.page4 .ysz{
+    width: 5.1rem;
+    height: 0.81rem;
+    background: url(../img/4.2.png);
+    background-size: cover;
+    position: absolute;
+    top: 1.31rem;
+    left: 2.4rem;
+
+}
+.page4 .wenzi1{
+    width:4.0rem;
+    height:0.31rem;
+    font-size:0.32rem;
+    font-family:PingFang SC;
+    font-style:italic;
+    color:rgba(255,255,255,1);
+    position: absolute;
+    top: 2.42rem;
+    left: 0.3rem;
+}
+.page4 .wenzi2{
+    width:6.2rem;
+    height:0.19rem;
+    font-size:0.2rem;
+    font-family:PingFang SC;
+    color:rgba(255,255,255,1);
+    position: absolute;
+    top: 2.98rem;
+    left: 0.3rem;
+}
+.page4 .bj{
+    width: 6.89rem;
+    height: 2.52rem;
+    background: url(../img/4.3.png);
+    position: absolute;
+    left: 0.31rem;
+    top: 3.52rem;
+    color:#ffffff;
+    font-size: 0.24rem;
+    line-height:0.45rem;
+    padding:.18rem;
+    box-sizing: border-box;
+}
+.page4 .title{
+    width: 2.39rem;
+    height: 2.25rem;
+    background: url(../img/title.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 6.43rem;
+}
+.page4 .tuc39{
+    width: 4.26rem;
+    height: 2.26rem;
+    background: url(../img/图层\ 39.png);
+    background-size: cover;
+    position: absolute;
+    left: 2.9rem;
+    top: 6.43rem;
+}
+.page4 .wenzi3 {
+    width: 6.32rem;
+    height: 2.04rem;
+    font-size: 0.24rem;
+    color:rgba(118,118,118,1);
+    line-height:.45rem;
+    position: absolute;
+    top: 9.42rem;
+    left: 0.59rem;
+}
+.page4 .jiantou{
+    width: 0.4rem;
+    height: 0.23rem;
+    background: url(../img/图层\ 3.png);
+    background-size: cover;
+    position: absolute;
+    left: 3.55rem;
+    top: 12.64rem;
+}
+
+
+.page5{
+    width: 100vw;
+    height: 100vh;
+    background: #ffffff;
+    position: relative;
+    background-size: cover;
+}
+.page5 .background{
+    width:7.8rem ;
+    height: 7.05rem;
+    background: url(../img/组\ 2.png);
+    background-size:cover;
+    position: absolute;
+    left: -0.3rem;
+
+}
+.page5 .logo{
+    width: 1.08rem; 
+    height: 0.55rem;
+    background: url(../img/诺阿logo-2\(1\).png);
+    background-size:cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 0.3rem;
+}
+.page5 .tup{
+    width: 1.92rem;
+    height: 0.6rem;
+    background: url(../img/4.1.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 1.52rem;
+}
+.page5 .tuw{
+    width: 4.55rem;
+    height: 0.81rem;
+    background: url(../img/组\ 1\(6\).png);
+    background-size: cover;
+    position: absolute;
+    top:1.31rem ;
+    left: 2.94rem;
+}
+.page5 .yw{
+    width:4.0rem;
+    height:0.31rem;
+    font-size:0.32rem;
+    font-family:PingFang SC;
+    font-style:italic;
+    color:rgba(255,255,255,1);
+    position: absolute;
+    top: 2.42rem;
+    left: 0.3rem;
+
+}
+.page5 .hz{
+    
+        width:6.2rem;
+        height:0.19rem;
+        font-size:0.2rem;
+        font-family:PingFang SC;
+        color:rgba(255,255,255,1);
+        position: absolute;
+        top: 2.98rem;
+        left: 0.3rem;
+    
+}
+.page5 .bj{
+    width: 6.89rem;
+    height: 3.01rem;
+    background: url(../img/4.3.png);
+    background-size: cover;
+    position: absolute;
+    left: 0.31rem;
+    top: 3.52rem;
+    color:#ffffff;
+    font-size: 0.24rem;
+    line-height:0.45rem;
+    padding:.18rem;
+    box-sizing: border-box;
+}
+.page5 .bj1{
+    width: 4.14rem;
+    height: 3.33rem;
+    background: url(../img/图层\ 40.png);
+    position: absolute;
+    background-size: cover;
+    top: 7.45rem;
+    left: 0.31rem;
+}
+.page5 .bj2{
+    width: 2.52rem;
+    height: 1.53rem;
+    background: url(../img/图层\ 20.png);
+    position: absolute;
+    background-size: cover;
+    top: 7.45rem;
+    left: 4.68rem;
+
+}
+.page5 .bj3{
+    width: 2.52rem;
+    height: 1.53rem;
+    background: url(../img/图层\ 41.png);
+    position: absolute;
+    background-size: cover;
+    top: 9.23rem;
+    left: 4.68rem;
+    
+
+}
+.page5 .jiantou{
+    width: 0.4rem;
+    height: 0.23rem;
+    background: url(../img/图层\ 3.png);
+    background-size: contain;
+    position: absolute;
+    left: 3.55rem;
+    top: 12.64rem;
+}
+
+
+
+
+
+
+.page7{
+    width: 100vw;   
+    height: 100vh;  
+    background: #ffffff;
+    position: relative;
+    background-size:cover;
+}
+.page7 .background{
+    width: 7.5rem; 
+    height: 6.27rem;
+    background: url(../img/组\ 1.png);
+    background-size:cover;
+    position: relative;
+}
+.page7 .background .logo{
+    width: 1.08rem; 
+    height: 0.55rem;
+    background: url(../img/诺阿logo-2\(1\).png);
+    background-size:cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 0.3rem;
+}
+.page7 .background .wenzi{
+    width:1.23rem;
+    height:.29rem;
+    font-size:.3rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(254,254,254,1);
+    position: absolute;
+    left: 3.14rem;
+    top: 1.71rem;
+}
+.page7 .background .wenzi1{
+    width: 6.89rem;
+    height: 3.32rem;
+    background: rgb(33, 33, 33,0.6);
+    font-size: 0.24rem;
+    font-family:PingFang SC;
+    line-height:0.45rem;
+    position: absolute;
+    left: 0.31rem;
+    top: 2.53rem;
+    color: #FEFEFE;
+    padding:.21rem;
+    box-sizing: border-box;
+}
+.page7 .kuang{
+    width: 6.93rem;
+    height: 3.91rem;
+    background: url(../img/矩形\ 10.png);
+    background-size:cover;
+    position: absolute;
+    left: 0.28rem;
+    top: 6.73rem;
+}
+.page7 .tu{
+    width: 6.37rem;
+    height: 3.43rem;
+    background: url(../img/组\ 1\(1\).png);
+    background-size:cover;
+    position: absolute;
+    left: 0.57rem;
+    top: 6.99rem;
+}
+.page7 .kaiguan{
+    width: .51rem;
+    height: .51rem;
+    background: url(../img/组\ 1\(2\).png) no-repeat ;
+    background-size: contain;
+    position: absolute;
+    left: 3.5rem;
+    top: 8.44rem;
+    z-index: 1;
+}
+.page7 .jiantou{
+    width: .38rem;
+    height: .22rem;
+    background: url(../img//图层\ 3.png) no-repeat;
+    background-size:contain;
+    position: absolute;
+    left: 3.55rem;
+    top: 12.64rem;
+}
+
+
+
+
+
+
+
+.page8{
+    width: 100vw;   
+    height: 100vh;  
+    position: relative;
+}
+
+.page8 .logo{
+    width: 1.12rem;
+    height: 0.66rem;
+    background: url(../img/诺阿logo-2.png) no-repeat;
+    background-size:contain;
+    position: absolute;
+    left: 0.3rem;
+    top: 0.3rem;
+}
+.page8 .con{
+    width: 5.96rem;
+    height: .68rem;
+    background: url(../img/CONTACT\ US.png);
+    background-size:cover;
+    position: absolute;
+    left: 0.77rem;
+    top: 1.6rem;
+}
+.page8 .about{
+    font-size:0.3rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(1,1,1,1);
+    position: absolute;
+    left: 3.14rem;
+    top: 1.71rem;
+}
+.page8 .map{
+    width: 6.9rem;
+    height: 3.29rem;
+    background: url(../img//诺阿logo-2\ 拷贝\ 7.png);
+    background-size:cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 3rem;
+}
+.page8 .chang{
+    width: 7.47rem;
+    height: 2.03rem;
+    background: url(../img/矩形\ 14.png);
+    background-size:cover;
+    position: absolute;
+    left: 0.015rem;
+    top: 6.30rem;
+}
+.page8 .xing{
+    width: 1.87rem;
+    height: 0.01rem;
+    background: url(../img/形状\ 25.png);
+    background-size:cover;
+    position: absolute;
+    left: 1.7rem;
+    top: 7rem;
+}
+.page8 .contect {
+    font-size:0.16rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(118,118,118,1);
+    line-height:0.45rem;
+    position: absolute;
+    left: 0.61rem;
+    top: 6.7rem;
+}
+.page8 .shanxi{
+    font-size:0.2rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(180,180,180,1);
+    line-height:0.45rem;
+    position: absolute;
+    left: 3.8rem;
+    top: 6.70rem;
+}
+.page8 .wenmeng{
+    font-size:0.26rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(118,118,118,1);
+    line-height:0.45rem;
+    position: absolute;
+    left: 0.61rem;
+    top: 7.4rem;
+}
+.page8 .num{
+    font-size:0.35rem;
+    font-family:Microsoft YaHei;
+    font-weight:400;
+    color:rgba(118,118,118,1);
+    line-height:0.71rem;
+    position: absolute;
+    left: 2rem;
+    top: 7.24rem;
+}
+.page8 .juxing15{
+    width: 3.29rem;
+    height: 1.74rem;
+    background: url(../img/矩形\ 15.png);
+    background-size:cover;
+    position: absolute;
+    left: 0.3rem;
+    top: 8.33rem;
+}
+.page8 .zixun{
+    font-size:0.28rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(255,255,255,1);
+    line-height:0.71rem;
+    position: absolute;
+    left: 0.41rem;
+    top: 8.36rem;
+}
+.page8 .tigong{
+    width:3.15rem;
+    height:0.81rem;
+    font-size:0.22rem;
+    font-family:PingFang SC;
+    color:rgba(255,255,255,1);
+    line-height:0.3rem;
+    position: absolute;
+    left: 0.38rem;
+    top: 9rem;
+}
+.page8 .blue{
+    width: 3.29rem;
+    height: 1.74rem;
+    background: url(../img/矩形\ 15\ 拷贝.png);
+    background-size:cover;
+    position: absolute;
+    left: 3.91rem;
+    top: 8.33rem;
+}
+.page8 .xiaoqi{
+    font-size:0.28rem;
+    font-family:PingFang SC;
+    font-weight:bold;
+    color:rgba(255,255,255,1);
+    line-height:0.71rem;
+    position: absolute;
+    left: 4.03rem;
+    top: 8.36rem;
+}
+.page8 .hezuo{
+    width:3.15rem;
+    height:0.81rem;
+    font-size:0.22rem;
+    font-family:PingFang SC;
+    color:rgba(255,255,255,1);
+    line-height:0.3rem;
+    position: absolute;
+    left: 4.00rem;
+    top: 9rem;
+}
+.page8 .num1{
+    font-size:0.22rem;
+    font-family:Microsoft YaHei;
+    color:rgba(133,135,149,0.7);
+    line-height:0.3rem;
+    position: absolute;
+    left: 2.93rem;
+    top: 10.66rem;
+}
+.page8 .email{
+    font-size:0.2rem;
+    font-family:Microsoft YaHei;
+    color:rgba(133,135,149,0.7);
+    line-height:.3rem;
+    position: absolute;
+    left: 2.58rem;
+    top: 11.2rem;
+}
+.page8 .dianhua{
+    width: 0.23rem;
+    height: 0.22rem;
+    background: url(../img/电话.png);
+    background-size:cover;
+    position: absolute;
+    left: 2.58rem;
+    top: 10.685rem;
+}
+.page8 .youxiang{
+    width: 0.22rem;
+    height: 0.176rem;
+    background: url(../img/邮箱.png);
+    background-size:cover;
+    position: absolute;
+    left: 2.25rem;
+    top: 11.275rem;
+}
+.page8 .jiantou1{
+    width: 0.36rem;
+    height: 0.22rem;
+    background: url(../img/图层\ 3.png) no-repeat;
+    background-size:contain;
+    position: absolute;
+    left: 3.55rem;
+    top: 12.64rem;
+}
+
+
+
+
+.page3{
+    width: 100vw;   
+    height: 100vh;  
+    background-color: greenyellow;
+}
